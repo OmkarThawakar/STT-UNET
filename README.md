@@ -7,10 +7,8 @@
 
 ## :rocket: News
 
-* **(Feb 23, 2023)**
-  * Code uploaded V1.0.
- * **(Feb 21, 2023)**
-  * Arxiv Release.
+* **(Feb 23, 2023):** Code uploaded V1.0. (in progress)
+ * **(Feb 21, 2023):** Arxiv Release.
 
 <hr />
 
@@ -44,3 +42,20 @@ Install dependencies and pycocotools for MitoEM:
 ```bash
 pip install torchsummary waterz malis
 ```
+
+
+
+## Citation
+If you find our work useful, please consider citing:
+```bibtex
+    @article{thawakar2023sttunet,
+      title={3D Mitochondria Instance Segmentation with Spatio-Temporal Transformers},
+      author={Omkar Thawakar and Rao Muhammad Anwer and Jorma Laaksonen and Orly Reiner and Mubarak Shah and Fahad Shahbaz Khan},
+      journal={arXiv:2303.12073},
+      year={2023},
+}
+```
+
+## Contact
+Should you have any question, please contact at omkar.thawakar@mbzuai.ac.ae.
+
